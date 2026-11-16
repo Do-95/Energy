@@ -1,0 +1,802 @@
+[
+  {
+    "sku": "EPI-001",
+    "category": "TRANSFORMADOR",
+    "name": "Transformador seco 500 kVA, 13.2/0.48 kV",
+    "unit": "unidad",
+    "description": "Transformador seco 500 kVA, 13.2/0.48 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 18000,
+    "lead_time_days": 17,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-002",
+    "category": "TRANSFORMADOR",
+    "name": "Transformador aceite 1000 kVA, 13.2/0.48 kV",
+    "unit": "unidad",
+    "description": "Transformador aceite 1000 kVA, 13.2/0.48 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 34000,
+    "lead_time_days": 24,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-003",
+    "category": "TRANSFORMADOR",
+    "name": "Transformador aceite 1500 kVA, 34.5/0.48 kV",
+    "unit": "unidad",
+    "description": "Transformador aceite 1500 kVA, 34.5/0.48 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 52000,
+    "lead_time_days": 31,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-004",
+    "category": "TRANSFORMADOR",
+    "name": "Transformador pedestal 750 kVA, 13.2/0.208 kV",
+    "unit": "unidad",
+    "description": "Transformador pedestal 750 kVA, 13.2/0.208 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 29000,
+    "lead_time_days": 38,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-005",
+    "category": "TRANSFORMADOR",
+    "name": "Transformador seco 300 kVA, 13.2/0.22 kV",
+    "unit": "unidad",
+    "description": "Transformador seco 300 kVA, 13.2/0.22 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 14500,
+    "lead_time_days": 45,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-006",
+    "category": "CELDA",
+    "name": "Celda MT 15 kV, interruptor en vacío",
+    "unit": "unidad",
+    "description": "Celda MT 15 kV, interruptor en vacío; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 8500,
+    "lead_time_days": 10,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-007",
+    "category": "CELDA",
+    "name": "Celda MT 36 kV, seccionador bajo carga",
+    "unit": "unidad",
+    "description": "Celda MT 36 kV, seccionador bajo carga; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 14500,
+    "lead_time_days": 17,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-008",
+    "category": "PROTECCION",
+    "name": "Reconectador automático 15 kV con control",
+    "unit": "unidad",
+    "description": "Reconectador automático 15 kV con control; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 12000,
+    "lead_time_days": 24,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-009",
+    "category": "PROTECCION",
+    "name": "Fusible limitador clase 15 kV",
+    "unit": "unidad",
+    "description": "Fusible limitador clase 15 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 380,
+    "lead_time_days": 31,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-010",
+    "category": "PROTECCION",
+    "name": "Pararrayos polimérico clase 15 kV",
+    "unit": "unidad",
+    "description": "Pararrayos polimérico clase 15 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 210,
+    "lead_time_days": 38,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-011",
+    "category": "PROTECCION",
+    "name": "Relé multifunción de protección",
+    "unit": "unidad",
+    "description": "Relé multifunción de protección; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 950,
+    "lead_time_days": 45,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-012",
+    "category": "PROTECCION",
+    "name": "Transformador de corriente 200/5 A",
+    "unit": "unidad",
+    "description": "Transformador de corriente 200/5 A; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 1600,
+    "lead_time_days": 10,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-013",
+    "category": "PROTECCION",
+    "name": "Transformador de potencial 13.2 kV/120 V",
+    "unit": "unidad",
+    "description": "Transformador de potencial 13.2 kV/120 V; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 520,
+    "lead_time_days": 17,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-014",
+    "category": "CABLE",
+    "name": "Cable Cu XLPE 15 kV 1/0 AWG",
+    "unit": "metro",
+    "description": "Cable Cu XLPE 15 kV 1/0 AWG; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 28,
+    "lead_time_days": 24,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-015",
+    "category": "CABLE",
+    "name": "Cable Cu THHN 600 V 4/0 AWG",
+    "unit": "metro",
+    "description": "Cable Cu THHN 600 V 4/0 AWG; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 19,
+    "lead_time_days": 31,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-016",
+    "category": "CABLE",
+    "name": "Cable Al XLPE 15 kV 350 kcmil",
+    "unit": "metro",
+    "description": "Cable Al XLPE 15 kV 350 kcmil; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 16,
+    "lead_time_days": 38,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-017",
+    "category": "CABLE",
+    "name": "Cable control 12x14 AWG apantallado",
+    "unit": "metro",
+    "description": "Cable control 12x14 AWG apantallado; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 7,
+    "lead_time_days": 45,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-018",
+    "category": "CABLE",
+    "name": "Conductor cobre desnudo 2/0 AWG",
+    "unit": "metro",
+    "description": "Conductor cobre desnudo 2/0 AWG; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 22,
+    "lead_time_days": 10,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-019",
+    "category": "CABLE",
+    "name": "Terminal premoldeado cable 15 kV",
+    "unit": "kit",
+    "description": "Terminal premoldeado cable 15 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 180,
+    "lead_time_days": 17,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-020",
+    "category": "CABLE",
+    "name": "Empalme recto cable 15 kV",
+    "unit": "kit",
+    "description": "Empalme recto cable 15 kV; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 230,
+    "lead_time_days": 24,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-021",
+    "category": "ESTRUCTURA",
+    "name": "Poste concreto 12 m distribución",
+    "unit": "unidad",
+    "description": "Poste concreto 12 m distribución; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 1100,
+    "lead_time_days": 31,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-022",
+    "category": "ESTRUCTURA",
+    "name": "Estructura galvanizada para transformador",
+    "unit": "unidad",
+    "description": "Estructura galvanizada para transformador; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 2400,
+    "lead_time_days": 38,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-023",
+    "category": "ESTRUCTURA",
+    "name": "Cruceta galvanizada 2.4 m",
+    "unit": "unidad",
+    "description": "Cruceta galvanizada 2.4 m; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 160,
+    "lead_time_days": 45,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-024",
+    "category": "ESTRUCTURA",
+    "name": "Conduit galvanizado 4 pulgadas",
+    "unit": "metro",
+    "description": "Conduit galvanizado 4 pulgadas; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 18,
+    "lead_time_days": 10,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-025",
+    "category": "ESTRUCTURA",
+    "name": "Bandeja galvanizada 300 mm",
+    "unit": "metro",
+    "description": "Bandeja galvanizada 300 mm; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 35,
+    "lead_time_days": 17,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-026",
+    "category": "ESTRUCTURA",
+    "name": "Gabinete baja tensión NEMA 3R",
+    "unit": "unidad",
+    "description": "Gabinete baja tensión NEMA 3R; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 950,
+    "lead_time_days": 24,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-027",
+    "category": "PUESTA_A_TIERRA",
+    "name": "Varilla copperweld 5/8 x 2.4 m",
+    "unit": "unidad",
+    "description": "Varilla copperweld 5/8 x 2.4 m; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 35,
+    "lead_time_days": 31,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-028",
+    "category": "PUESTA_A_TIERRA",
+    "name": "Conductor cobre desnudo 2/0 AWG",
+    "unit": "metro",
+    "description": "Conductor cobre desnudo 2/0 AWG; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 22,
+    "lead_time_days": 38,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-029",
+    "category": "PUESTA_A_TIERRA",
+    "name": "Soldadura exotérmica y molde",
+    "unit": "kit",
+    "description": "Soldadura exotérmica y molde; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 95,
+    "lead_time_days": 45,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-030",
+    "category": "SERVICIO",
+    "name": "Ingeniería y memorias de cálculo",
+    "unit": "lote",
+    "description": "Ingeniería y memorias de cálculo; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 4200,
+    "lead_time_days": 10,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-031",
+    "category": "SERVICIO",
+    "name": "Estudio coordinación protecciones",
+    "unit": "lote",
+    "description": "Estudio coordinación protecciones; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 1800,
+    "lead_time_days": 17,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-032",
+    "category": "SERVICIO",
+    "name": "Obras civiles base y cárcamo",
+    "unit": "lote",
+    "description": "Obras civiles base y cárcamo; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 6800,
+    "lead_time_days": 24,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-033",
+    "category": "SERVICIO",
+    "name": "Montaje electromecánico hasta 1 MVA",
+    "unit": "lote",
+    "description": "Montaje electromecánico hasta 1 MVA; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 5200,
+    "lead_time_days": 31,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-034",
+    "category": "SERVICIO",
+    "name": "Pruebas eléctricas FAT/SAT",
+    "unit": "lote",
+    "description": "Pruebas eléctricas FAT/SAT; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 2400,
+    "lead_time_days": 38,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-035",
+    "category": "SERVICIO",
+    "name": "Puesta en servicio y energización",
+    "unit": "lote",
+    "description": "Puesta en servicio y energización; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 1900,
+    "lead_time_days": 45,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-036",
+    "category": "SERVICIO",
+    "name": "Transporte especializado transformador",
+    "unit": "viaje",
+    "description": "Transporte especializado transformador; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 1600,
+    "lead_time_days": 10,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-037",
+    "category": "SERVICIO",
+    "name": "Grúa y maniobra de izaje",
+    "unit": "jornada",
+    "description": "Grúa y maniobra de izaje; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 950,
+    "lead_time_days": 17,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-038",
+    "category": "SERVICIO",
+    "name": "Gestión permisos e interconexión",
+    "unit": "lote",
+    "description": "Gestión permisos e interconexión; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 1300,
+    "lead_time_days": 24,
+    "warranty_months": 36,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-039",
+    "category": "SERVICIO",
+    "name": "Capacitación y manuales",
+    "unit": "jornada",
+    "description": "Capacitación y manuales; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 780,
+    "lead_time_days": 31,
+    "warranty_months": 12,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  },
+  {
+    "sku": "EPI-040",
+    "category": "SERVICIO",
+    "name": "Mantenimiento preventivo anual",
+    "unit": "visita",
+    "description": "Mantenimiento preventivo anual; referencia estimativa, validar ingeniería local.",
+    "base_price_usd": 1100,
+    "lead_time_days": 38,
+    "warranty_months": 24,
+    "technical_parameters": {
+      "clase_tension": "15 kV si aplica",
+      "documentos": "ficha, pruebas y garantía simuladas",
+      "cumplimiento": "validar requisitos locales"
+    },
+    "exclusions": [
+      "impuestos salvo indicación",
+      "instalación salvo servicio",
+      "diseño/permisos finales"
+    ]
+  }
+]

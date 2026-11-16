@@ -1,0 +1,54 @@
+[
+  {
+    "project_id": "DEMO-P01",
+    "name": "Expansión planta alimentos",
+    "country": "Colombia",
+    "jurisdiction_code": "CO",
+    "capacity_kva": 1000,
+    "voltage_kv": "13.2/0.48",
+    "scenario": "Ampliación industrial",
+    "target_schedule_days": 75,
+    "budget_usd_demo": 125000,
+    "required_categories": "TRANSFORMADOR; CELDA; PROTECCION; CABLE; ESTRUCTURA; PUESTA_A_TIERRA; SERVICIO",
+    "notice": "FICTICIO: exclusivamente para demostración; no es oferta comercial, dato oficial ni validación normativa."
+  },
+  {
+    "project_id": "DEMO-P02",
+    "name": "Bombeo rural",
+    "country": "Ecuador",
+    "jurisdiction_code": "EC",
+    "capacity_kva": 500,
+    "voltage_kv": "13.8/0.22",
+    "scenario": "Acceso complejo",
+    "target_schedule_days": 90,
+    "budget_usd_demo": 82000,
+    "required_categories": "TRANSFORMADOR; CELDA; PROTECCION; CABLE; ESTRUCTURA; PUESTA_A_TIERRA; SERVICIO",
+    "notice": "FICTICIO: exclusivamente para demostración; no es oferta comercial, dato oficial ni validación normativa."
+  },
+  {
+    "project_id": "DEMO-P03",
+    "name": "Centro logístico",
+    "country": "Chile",
+    "jurisdiction_code": "CL",
+    "capacity_kva": 1500,
+    "voltage_kv": "23/0.4",
+    "scenario": "Sustitución en operación",
+    "target_schedule_days": 80,
+    "budget_usd_demo": 168000,
+    "required_categories": "TRANSFORMADOR; CELDA; PROTECCION; CABLE; ESTRUCTURA; PUESTA_A_TIERRA; SERVICIO",
+    "notice": "FICTICIO: exclusivamente para demostración; no es oferta comercial, dato oficial ni validación normativa."
+  },
+  {
+    "project_id": "DEMO-P04",
+    "name": "Interfaz parque solar",
+    "country": "Perú",
+    "jurisdiction_code": "PE",
+    "capacity_kva": 750,
+    "voltage_kv": "22.9/0.4",
+    "scenario": "Interconexión y protecciones",
+    "target_schedule_days": 100,
+    "budget_usd_demo": 109000,
+    "required_categories": "TRANSFORMADOR; CELDA; PROTECCION; CABLE; ESTRUCTURA; PUESTA_A_TIERRA; SERVICIO",
+    "notice": "FICTICIO: exclusivamente para demostración; no es oferta comercial, dato oficial ni validación normativa."
+  }
+]

@@ -1,0 +1,5 @@
+﻿jurisdiction_code,country,currency,demo_fx_usd_to_local,tax_reference,authority,requirements,notice
+CO,Colombia,COP,4100,impuestos simulados; confirmar,autoridad y distribuidora por validar,"permisos, conexión, seguridad y certificación por validar","FICTICIO: exclusivamente para demostración; no es oferta comercial, dato oficial ni validación normativa."
+EC,Ecuador,USD,1,impuestos simulados; confirmar,autoridad y distribuidora por validar,"permisos, conexión, seguridad y certificación por validar","FICTICIO: exclusivamente para demostración; no es oferta comercial, dato oficial ni validación normativa."
+CL,Chile,CLP,930,impuestos simulados; confirmar,autoridad y distribuidora por validar,"permisos, conexión, seguridad y certificación por validar","FICTICIO: exclusivamente para demostración; no es oferta comercial, dato oficial ni validación normativa."
+PE,Perú,PEN,3.75,impuestos simulados; confirmar,autoridad y distribuidora por validar,"permisos, conexión, seguridad y certificación por validar","FICTICIO: exclusivamente para demostración; no es oferta comercial, dato oficial ni validación normativa."
